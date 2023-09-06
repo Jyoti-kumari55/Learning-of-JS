@@ -5,7 +5,7 @@ body {
 }
 
      
-/**container**/
+ /************* container ********************/
 
 .fluid-container{
     padding-left: 1rem;
@@ -17,7 +17,7 @@ body {
     margin: auto;
 }
 
-       /***** links *****/
+       /************** links *******************/
     h2{
         color: brown;
 
@@ -69,6 +69,8 @@ body {
     .nav{
         background-color: aquamarine;
         padding: 1rem;
+        border-top-right-radius: 1rem;
+        text-align: center;
         
      }
      .nav .nav-div{
@@ -80,8 +82,11 @@ body {
         color: rgb(73, 128, 177);
      }
 
-     .nav .list-item-inline{
+      .list-item-inline{
         font-weight: bold;
+        display: inline;
+        padding: 0rem 0.5rem;
+
      }
 
 
@@ -118,4 +123,25 @@ body {
         color: green;
      }
 
-     /************************************/
+     .section a{
+        padding: 0rem 1rem;
+        color: rgb(43, 62, 63);
+     }
+
+     /***************** footer *******************/
+
+     .footer{
+        background-color: bisque;
+        padding: 2rem 1rem;
+        border-top-right-radius: 1rem;
+        text-align: center;
+     }
+     .footer .f-title{
+        color: rgb(18, 18, 104);
+        font-weight: bold;
+        text-align: center;
+     }
+     
+     
+     
+     
