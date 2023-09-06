@@ -3,7 +3,9 @@
 body {
     font-family: 'REM', sans-serif;
 }
-     /**container**/
+
+     
+/**container**/
 
 .fluid-container{
     padding-left: 1rem;
@@ -16,4 +18,37 @@ body {
 }
 
        /**links**/
-       
+    h2{
+        color: brown;
+
+    }
+    .link{
+        text-decoration: none;
+        padding: 0.5rem 1rem;
+
+    }
+    .first-link{
+        background-color: powderblue;
+        color: rgb(148, 63, 63);
+        padding: 5px 5px;
+        text-decoration: none;
+        display: inline-block;
+        border-radius: 1rem;
+        
+    }
+    .sec-link{
+        background-color: cadetblue;
+        color: chartreuse;
+        padding: 5px 5px;
+        display: inline-block;
+        border-radius: 1rem;
+    }
+    .sec-link:hover{
+        background-color: grey;
+        color: aliceblue;
+        padding: 5px 5px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        border-radius: 1rem;
+    }
