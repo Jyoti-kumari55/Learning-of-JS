@@ -17,7 +17,7 @@ body {
     margin: auto;
 }
 
-       /**links**/
+       /***** links *****/
     h2{
         color: brown;
 
@@ -52,3 +52,34 @@ body {
         display: inline-block;
         border-radius: 1rem;
     }
+
+    /***** list *****/
+
+    .list1{
+        list-style: none;
+    }
+
+    .inline-list{
+        display: inline;
+        padding: 0.5rem 1rem;
+    }
+
+    /******** navigation *********/
+
+    .nav{
+        background-color: aquamarine;
+        padding: 1rem;
+        
+     }
+     .nav .nav-div{
+        font-weight: bold;
+     }
+
+     
+     .nav .link{
+        color: rgb(73, 128, 177);
+     }
+
+     .nav .list-item-inline{
+        font-weight: bold;
+     }
