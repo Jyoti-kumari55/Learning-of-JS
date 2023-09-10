@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  padding: 1rem;
+  width: 40%;
+  font-size: 10ch;  
+}
+
+h2 {
+  font-size: 6ch;
+}
