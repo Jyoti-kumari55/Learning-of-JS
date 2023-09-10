@@ -1,0 +1,17 @@
+input {
+  padding: 3rem;
+  width: 75%;
+  border-radius: 1rem;
+  border-color: rgb(25, 73, 73);
+  border-width: 0.5rem;
+  margin: 2rem 10rem;
+}
+h1 {
+  font-size: 10ch;
+  text-align: center;
+  color: chocolate;
+}
+span {
+  font-size: 5rem;
+  padding: 2rem;
+}

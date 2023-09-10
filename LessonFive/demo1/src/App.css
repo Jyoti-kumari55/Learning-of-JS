@@ -9,6 +9,7 @@ button {
   font-size: 10ch;  
 }
 
-h2 {
-  font-size: 6ch;
+input {
+  padding: 1rem;
+  width: 75%;
 }

@@ -1,5 +1,6 @@
 import './App.css';
 import React, {useState} from "react";
+import Demo02 from './Demo02';
 
 
 var headingText = "Jyoti Chaudhary";
@@ -22,8 +23,10 @@ function App() {
     <h1 style={{ backgroundColor: "green", fontSize: "4.5ch" }}>
     Jyoti chaudhary </h1>
     {/* {username} */}
-    <h2  >{counter}</h2>
-
+    <h1 style={{ fontSize: "4ch"}}>
+    {counter}
+    </h1>
+    < Demo02 />
     </div>
   );
 }
