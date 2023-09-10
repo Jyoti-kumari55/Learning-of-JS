@@ -75,3 +75,45 @@ All the features implemented in markSix should also be present in this app.
 The app should take in input and translate the input into the respective chosen language.
 
 Create the app with your own design
+
+## Lesson Five
+
+### markEight: know your emoji
+For your levelZero portfolio you have to build this app. Make the Emoticon Interpreter we made in the live session. Change the emojis and customize it for yourself.
+
+For example, You could also make an interpreter for food or flags, or any other emoticons. Make it yours.
+
+To help you all the sub-tasks and requirements for the app is mentioned below.
+
+#### Sub-tasks:
+Make emoji interpreter using React as we made in the live Youtube session.
+
+Change & customize it by yourself
+
+Have at least 10 emojis
+
+Display the name on the emoji on click.
+
+Display the name of the emoji on input in the search box.
+
+Display a message for emoji not found.
+
+### markNine: recommendation app
+If you want to enroll for levelOne of neoG Camp 2024 batch, you can complete this markNine project and then submit your portfolio with mark9 projects on the admission portal.
+
+For your levelZero portfolio you have to build this app. Make a recommendation app that suggests something to your users. Choose any topic (Travel, Food, Adventure, etc). To help you all the sub-tasks and requirements for the app is mentioned below.
+
+#### Sub-tasks:
+This app should be similar to Goodbooks recommendation using React showed by Tanay in a Youtube video. 
+
+You can choose to have different genres of something you're interested in: Music, Food, Travel, etc.
+
+List categories for the chosen genres for your recommendation app.
+
+When the user clicks on one category, display a list of items in that category with its details.
+
+Have at least 3 items in each category.
+
+Add Description and ratings for each item.
+
+Create the app with your design.
