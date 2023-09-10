@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Leckerli+One&family=REM:ital@1&display=swap');
+
+* {
+    --dark-violet: #db2777;
+    --primary-violet: #c084fc;
+    font-family: 'Leckerli One', cursive;
+    
+}
+
+body {
+    background: var(--primary-violet);
+    color: black;
+    display: grid;
+    place-content: center;
+    padding: 1rem;
+    row-gap: 1rem;
+}
+ 
+h1 {
+    text-align: justify;
+    font-size: 50px;
+    
+}
+
+.input-message {
+    background-color: antiquewhite;
+    border-radius: 8px;
+    border-width: medium;
+    border-color: rgb(85, 58, 58);
+    height: 15rem;
+    outline: none;
+    width: 70%;
+    
+}
+
+.input-message::placeholder {
+    font-weight: lighter;
+    font-size: larger;
+}
+
+button {
+    
+    padding: 1rem 2rem;
+    width: max-content;
+    font-size: medium;
+    background-color: cadetblue;
+    color: black;
+    border-radius: 8.5px;
+    border-color: rgb(85, 58, 58);
+    margin: 1rem 1rem ;
+    outline: none;
+    font-weight: 600;
+
+}
+
+button:hover {
+    background-color: darksalmon;
+    color: navy;
+
+}
+
+.output-div {
+    font-size: larger;
+    color: #4a044e;
+}
+
+.footer {
+    text-align: center;
+    text-decoration:solid;
+    width: 70vw;
+}
+
