@@ -78,6 +78,15 @@ Create the app with your own design
 
 ## Lesson Five
 
+CodeSandBox links : 
+https://codesandbox.io/s/magical-leaf-p2m2v2
+
+https://codesandbox.io/s/list2-46pmvj
+
+https://codesandbox.io/s/searchemoji-d8hmr6
+
+https://codesandbox.io/s/listdemo-s7774h
+
 ### markEight: know your emoji
 For your levelZero portfolio you have to build this app. Make the Emoticon Interpreter we made in the live session. Change the emojis and customize it for yourself.
 
