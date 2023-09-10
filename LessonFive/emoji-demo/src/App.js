@@ -42,7 +42,9 @@ function App() {
   return (
     <div className="App">
         <h1>Your Favourite Emoji</h1>
-      <input placeholder="Put your emoji......"  
+      <input 
+      className='input-text'
+      placeholder="Put your emoji here......"  
       onChange={emojiChangeHandler} />
 
       <h1> {inputEmoji} </h1>
@@ -50,7 +52,8 @@ function App() {
 
       {
         emojis.map((inputEmoji) => (
-          <span onClick={() => emojiClickHandler(inputEmoji)}>
+          <span onClick={() => 
+          emojiClickHandler(inputEmoji)}>
           {" "}
           {inputEmoji}
           {" "}

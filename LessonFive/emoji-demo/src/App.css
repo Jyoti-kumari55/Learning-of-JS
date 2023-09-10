@@ -5,6 +5,15 @@ input {
   border-color: rgb(25, 73, 73);
   border-width: 0.5rem;
   margin: 2rem 10rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+}
+
+
+.input-text::placeholder {
+  font-weight: bolder;
+  color: rgb(77, 69, 69);
+  font-size: 2rem;
 }
 h1 {
   font-size: 10ch;
