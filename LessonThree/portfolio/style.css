@@ -1,0 +1,193 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+
+:root {
+    --primary-color: #9063dd;
+    --off-sky: #e0f2fe;
+    --dark-red: #7f1d1d;
+    --light-pink:#f87171;
+    --light-blue: #6366f1;
+    --light-teal: #87b5af;
+    --dark-emerald:#064e3b;
+  }
+
+body {
+    font-family: "Montserrat", sans-serif;
+    margin: 0px auto;
+    max-width: 85%;
+    width: 100%;
+  }
+
+.list-non-bullet {
+    list-style: none;
+    padding-inline-start: 0px;
+  }
+
+.list-item {
+    display: inline;
+    padding: 0.5rem 1rem;
+  }
+   
+/**************************** Navigation ******************************/
+
+ .nav {
+    background-color: var(--light-teal);
+    color: var(--dark-emerald);
+    padding: 1rem;
+    border-bottom-left-radius: 1rem ;
+  }
+
+.nav-title{
+    font-weight: bold;
+  }
+
+.nav-title a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+.nav .nav-pills{
+    text-align: center;
+    margin: 1rem 1.5rem;
+  }
+
+ .nav .link {
+    color: var(--dark-emerald);
+  }
+
+.nav .active-link {
+font-weight: bold;
+}
+
+/******************************** Header *******************************************/
+
+.header {
+padding: 4rem;
+}
+
+.header .web-img{
+   max-width: 90%;
+    width: 550px;
+    display: block;
+    margin: auto;
+  }
+
+.header .web-title{
+    text-align: center;
+    padding-top: 1rem;
+    color: var(--dark-red);
+   }
+
+.header .web-title .web-span {
+    color: var(--light-pink);
+   }
+
+/******************************* Section ********************************/
+
+.section {
+    padding: 2rem;
+    margin: 2rem ;
+    border-radius: 1rem;
+    text-align: center;
+    background-color: var(--off-sky);
+  }
+
+.section h1 {
+    text-align: center;
+   }
+
+.link {
+    box-sizing: border-box;
+    text-decoration: none;
+    padding: 1rem 1.5rem;
+   }
+
+.primary-link{
+    max-width: 140px;
+    padding: 0.6rem 1.5rem;
+    background-color: var(--dark-emerald);
+    color: white;
+    margin: 1rem 1rem;
+    border-radius: 2rem;
+   }
+
+.sec-link{
+    max-width: 140px;
+    margin: 1rem;
+    padding: 0.6rem 1.2rem;
+    border-radius: 2rem;
+    border: 1px solid var(--dark-emerald);
+    color: var(--dark-emerald);
+   }
+
+
+/******************************* Footer ********************************/
+
+.footer {
+    background-color: var(--light-teal) ;
+    padding: 2rem 1rem;
+    text-align: center;
+    color: rgb(22, 21, 21);
+    border-top-right-radius: 1rem;
+   }
+
+.footer .footer-title {
+    font-weight: bold;
+    font-size: larger;
+   }
+
+.footer .link {
+    color: rgb(7, 23, 59);
+    font-weight: bold;
+   }
+
+.footer ul {
+    padding-inline-start: 0px;
+   }
+
+
+.article-con {
+
+   padding: 0rem 1rem;
+   max-width: 900px;
+   width: auto;
+   margin: 2rem 2rem;
+   border-radius: 1.5rem;
+   text-align: center;
+  }
+
+.article-con h1 { 
+  margin: 2rem;
+  } 
+.article-con p {
+padding-bottom: 2.5rem;
+
+}
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
