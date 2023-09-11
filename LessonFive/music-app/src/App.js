@@ -85,7 +85,6 @@ function App() {
       {
         musicList[inputMusic].map((songs) => {
           return (
-            <a href={songs.link}>
               <li
                 key={songs.song}
                 >
@@ -95,10 +94,8 @@ function App() {
                   <div className='con' >
                     Singer: {songs.singer}
 
-
                   </div>
-                </li>
-            </a>
+                </li>  
           )
         })
       }
