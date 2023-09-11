@@ -131,4 +131,4 @@ Create the app with your design.
 
 ### Assignment (bookApp)
 
-Link:  https://codesandbox.io/s/holy-snow-zvyvhh?file=/src/App.js
+Link: https://codesandbox.io/s/novels-zvyvhh
