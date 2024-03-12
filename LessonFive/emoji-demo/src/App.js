@@ -14,7 +14,17 @@ var emojiDict = {
     "😇": "Innocent",
     "😍": "Heart eyes",
     "😋": "Yum",
-    "🤔": "Thinking face"
+    "🤔": "Thinking face",
+    "🫣": "Peeking Eye",
+    "👌": "OK Hand",
+    "👍":"Thumbs Up",
+    "🙌":"Raising Hands",
+    "🤡":"Clown Face",
+    "🎈":"Balloon",
+    "🍔":"Hamburger",
+    "🍟":"French Fries",
+    "🍨":"Ice Cream"
+
 }
 
 var emojis = Object.keys(emojiDict); //Converting object to array
