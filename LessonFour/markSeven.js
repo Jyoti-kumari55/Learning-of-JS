@@ -22,7 +22,7 @@ function buttonClickHandler(){
     .then((data) => {
        var translatedData  = data.contents.translated ;
        outputText.innerText = translatedData; 
-       console.log("Output: ",translatedData)
+       console.log("Output: ", translatedData)
 })
 };
 btnTranslate.addEventListener("click", buttonClickHandler);

@@ -65,6 +65,7 @@ The app should take in input and translate the input into Minion's language.
 
 Create the app with your own design.
 
+
 ### markSeven: fun translation app
 For your levelZero portfolio you have to build this app. To help you all the sub-tasks and requirements for the app is mentioned below. You may choose any kind of translation provided by FunTranslations API
 
@@ -76,6 +77,11 @@ All the features implemented in markSix should also be present in this app.
 The app should take in input and translate the input into the respective chosen language.
 
 Create the app with your own design
+
+https://github.com/Jyoti-kumari55/NeogCampZeroLevelPractice/assets/68436635/910aae71-97d6-4aed-92d9-99a0752d9287
+
+https://github.com/Jyoti-kumari55/NeogCampZeroLevelPractice/assets/68436635/2cb38464-2840-4fa6-b0c5-93bd0130cc0c
+
 
 ## Lesson Five
 
