@@ -139,3 +139,7 @@ Create the app with your design.
 Link: https://codesandbox.io/s/novels-zvyvhh
 
 https://github.com/Jyoti-kumari55/NeogCampZeroLevelPractice/assets/68436635/2b7c2869-891e-4351-a6bf-f5978f21f783
+
+## Music-App
+
+https://github.com/Jyoti-kumari55/NeogCampZeroLevelPractice/assets/68436635/fe1135c8-ce17-4cb2-bc54-3fa887c70c6e
