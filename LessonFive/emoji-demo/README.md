@@ -24,8 +24,8 @@ To help you all the sub-tasks and requirements for the app is mentioned below.
  6.Display a message for emoji not found.
 
  ### Screenshots
+![Screenshot 2024-03-12 134940](https://github.com/Jyoti-kumari55/NeogCampZeroLevelPractice/assets/68436635/571fb44a-0390-4592-8230-b1d2efc9113b)
 
-    ![Screenshot 2024-03-12 134940](https://github.com/Jyoti-kumari55/NeogCampZeroLevelPractice/assets/68436635/571fb44a-0390-4592-8230-b1d2efc9113b)
-    ![Screenshot 2024-03-12 135033](https://github.com/Jyoti-kumari55/NeogCampZeroLevelPractice/assets/68436635/737a5ab2-20bd-4ddd-be52-50526d1a9f39)
+![Screenshot 2024-03-12 135033](https://github.com/Jyoti-kumari55/NeogCampZeroLevelPractice/assets/68436635/737a5ab2-20bd-4ddd-be52-50526d1a9f39)
 
 
