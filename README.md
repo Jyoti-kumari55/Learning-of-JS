@@ -1,6 +1,6 @@
-# NeogCampZeroLevelPractice 
+# ZeroLevelPractice 
 
- Practice of Zero level of Neog Camp
+ Practice of Zero level
 
 Welcome to my Portfolio website:
 
@@ -9,22 +9,20 @@ Website hosted: https://deft-tulumba-458491.netlify.app
 ## Lesson One
 ### markOne: “Do you know me?” CLI quiz app
 
-For your levelZero portfolio you have to build this app. To help you all the sub-tasks and requirements for the app is mentioned below.
-
 #### Sub-tasks:
-The quiz can be "Do you know me" or a similar CLI QUIZ on any other topic too. Take Username as input.
+The quiz can be "Do you know me" or a similar CLI QUIZ on any other topic too. Take the Username as input.
 
 Have at least 5 questions.
 
 Display the final score to the user
 
 ### markTwo: CLI Fandom Quiz App
-For your levelZero portfolio you have to build this app. To help you all the sub-tasks and requirements for the app is mentioned below.
+You have to build this app. To help you all the sub-tasks and requirements for the app are mentioned below.
 
 #### Sub-tasks:
 Make a quiz on anything you're passionate about, similar to markOne.
 
-Take Username as input.
+Take the Username as input.
 
 Have at least 5 questions.
 
@@ -35,12 +33,12 @@ Display the final score to the user
 ## Lesson Three
 
 ### markFour: portfolio website
-Make your portfolio. You can refer Adarsh Balika component library for this. Just make sure you change the color scheme, and fonts, and add graphics and text to the list, so it's your own unique portfolio.
+Make your portfolio. 
 
 #### Sub-tasks:
-Have a home page with your Introduction, and Projects with a call to action buttons for those pages.
+Have a home page with your Introduction and Projects with a call to action buttons for those pages.
 
-It is mandatory to put all your projects and social media handles majorly Twitter, and LinkedIn in your portfolio.
+It is mandatory to put all your projects and social media handles mainly Twitter, and LinkedIn in your portfolio.
 
 ### markFive: adding blogs
 Add a Blogs section where you'll be listing all your blogs. If you don't have a blog, you can list a dummy blog and add some dummy text ( at least 200 words ) as of now.
@@ -57,19 +55,17 @@ https://github.com/Jyoti-kumari55/NeogCampZeroLevelPractice/assets/68436635/fdd7
 
 ## Lesson Four
 
-### markSix: "minions speak" App
-For your levelZero portfolio you have to build this app. To help you all the sub-tasks and requirements for the app is mentioned below.
+### markSix: "Minions speak" App
 
 #### Sub-tasks:
-Make the same app as made by Tanay in live video in VanillaJS. Use Minion Fun translation API for the web app 
+Use Minion Fun translation API for the web app 
 
 The app should take in input and translate the input into Minion's language.
 
 Create the app with your own design.
 
-
 ### markSeven: fun translation app
-For your levelZero portfolio you have to build this app. To help you all the sub-tasks and requirements for the app is mentioned below. You may choose any kind of translation provided by FunTranslations API
+You have to build this app. To help you all the sub-tasks and requirements for the app are mentioned below. You may choose any kind of translation provided by FunTranslations API
 
 #### Sub-tasks:
 Use Fun translation API and create another fun translation app in VanillaJS.
@@ -103,14 +99,14 @@ https://codesandbox.io/s/searchemoji-d8hmr6
 https://codesandbox.io/s/listdemo-s7774h
 
 ### markEight: know your emoji
-For your levelZero portfolio you have to build this app. Make the Emoticon Interpreter we made in the live session. Change the emojis and customize it for yourself.
+You have to build this app. Make the Emoticon Interpreter we made in the live session. Change the emojis and customize it for yourself.
 
 For example, You could also make an interpreter for food or flags, or any other emoticons. Make it yours.
 
-To help you all the sub-tasks and requirements for the app is mentioned below.
+To help you all the sub-tasks and requirements for the app are mentioned below.
 
 #### Sub-tasks:
-Make emoji interpreter using React as we made in the live Youtube session.
+Make an emoji interpreter using React.
 
 Change & customize it by yourself
 
@@ -123,13 +119,10 @@ Display the name of the emoji on input in the search box.
 Display a message for emoji not found.
 
 ### markNine: recommendation app
-If you want to enroll for levelOne of neoG Camp 2024 batch, you can complete this markNine project and then submit your portfolio with mark9 projects on the admission portal.
 
-For your levelZero portfolio you have to build this app. Make a recommendation app that suggests something to your users. Choose any topic (Travel, Food, Adventure, etc). To help you all the sub-tasks and requirements for the app is mentioned below.
+You have to build this app. Make a recommendation app that suggests something to your users. Choose any topic (Travel, Food, Adventure, etc). To help you all the sub-tasks and requirements for the app are mentioned below.
 
 #### Sub-tasks:
-This app should be similar to Goodbooks recommendation using React showed by Tanay in a Youtube video. 
-
 You can choose to have different genres of something you're interested in: Music, Food, Travel, etc.
 
 List categories for the chosen genres for your recommendation app.
@@ -138,11 +131,11 @@ When the user clicks on one category, display a list of items in that category w
 
 Have at least 3 items in each category.
 
-Add Description and ratings for each item.
+Add Descriptions and ratings for each item.
 
 Create the app with your design.
 
-### Assignment (bookApp)
+### Assignment (book app)
 
 Link: https://codesandbox.io/s/novels-zvyvhh
 
